@@ -1,4 +1,3 @@
-# counter-redis
+# counter_redis
 
-TODO: Enter the cookbook description here.
-
+The Counter Database

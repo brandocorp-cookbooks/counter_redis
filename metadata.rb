@@ -1,4 +1,4 @@
-name 'counter-redis'
+name 'counter_redis'
 maintainer 'Brandon Raabe'
 maintainer_email 'you@example.com'
 license 'mit'

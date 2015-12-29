@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: counter-redis
+# Cookbook Name:: counter_redis
 # Recipe:: default
 #
 # The MIT License (MIT)
