@@ -24,7 +24,5 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 
-node.set['redisio']['install_package'] = true
-
 include_recipe 'redisio::default'
 include_recipe 'redisio::enable'

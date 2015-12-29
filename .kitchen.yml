@@ -17,5 +17,5 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[counter-redis::default]
+      - recipe[counter_redis::default]
     attributes:
